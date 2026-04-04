@@ -11,6 +11,7 @@ clash订阅:
 - https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://us1.zhuk.dpdns.org/YouTube/bp4Rz/c.yaml
 - https://us1.zhuk.dpdns.org/YouTube/cM1vN/c.yaml
+- https://us1.zhuk.dpdns.org/YouTube/dpQ2x/c.yaml
 - https://v2rayse.com/fs/public/20260325/8qf6d3w.yaml
 - https://v2rayse.com/fs/public/20260326/8is2c74.yaml
 - https://v2rayse.com/fs/public/20260326/jsk7n07.yaml
@@ -34,9 +35,11 @@ clash订阅:
 - https://x.v50.lat/view.php?id=e42624c88fb8c275
 v2订阅:
 - https://iuiu.lovebabyforever.workers.dev/
+- https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - https://sub.scpnb.top/base64
 - https://us1.zhuk.dpdns.org/YouTube/bp4Rz/v.txt
 - https://us1.zhuk.dpdns.org/YouTube/cM1vN/v.txt
+- https://us1.zhuk.dpdns.org/YouTube/dpQ2x/v.txt
 - https://v2rayse.com/fs/public/20260325/ko8za0e.txt
 - https://v2rayse.com/fs/public/20260326/0t476fu.txt
 - https://v2rayse.com/fs/public/20260326/kicna5k.txt
@@ -60,23 +63,38 @@ v2订阅:
 - https://x.v50.lat/view.php?id=d17993b7187b3ddc
 开心玩耍:
 - 可用流量:1000000000.0 GB                    https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
-- 可用流量:28.91 GB                    https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
-- 可用流量:75.51 GB                    https://suba.f2vip.net/api/v1/client/subscribe?token=aca29512e06f31f0af911df5b5810825
-- 可用流量:86.68 GB                    https://sus.clodom.link/cloud/link/detail/4e63d694ba7952bad9c9124677928abd
-- 可用流量:99.68 GB                    https://novc.f6net.net/api/v1/client/subscribe?token=7a227fd56a15f5bf688388408e4a6c16
-- 可用流量:99.73 GB                    https://novc.f6net.net/api/v1/client/subscribe?token=99cb584ebce444815075f222b72e1741
-- 可用流量:99.84 GB                    https://novc.f6net.net/api/v1/client/subscribe?token=f6c4940dfc077f9f6470dd0065488082
+- 可用流量:17366.51 GB                    https://kk.shdetai.cn/sub?token=d7561462a0f9a392ab6ae472cec0a533
+- 可用流量:26.37 GB                    https://userid.moviecloud.sbs/movie/497faf13e2d4b0fca0f1245d6b9121f2
+- 可用流量:55.26 GB                    https://92oosk.wcrcz.com/api/771a280efe23d2848f77eaccda61cab6
+- 可用流量:70.61 GB                    https://suba.f2vip.net/api/v1/client/subscribe?token=aca29512e06f31f0af911df5b5810825
+- 可用流量:80.52 GB                    https://novc.f6net.net/api/v1/client/subscribe?token=99cb584ebce444815075f222b72e1741
+- 可用流量:94.24 GB                    https://sub.zhilian.best/getjiedian/a0c6d123178d402e01dcf93534dc3b13
+- 可用流量:96.79 GB                    https://novc.f6net.net/api/v1/client/subscribe?token=a622299cd0f5f9fd8027f5c34d882465
+- 可用流量:97.0 GB                    https://novc.f6net.net/api/v1/client/subscribe?token=7a227fd56a15f5bf688388408e4a6c16
+- 可用流量:98.33 GB                    https://novc.f6net.net/api/v1/client/subscribe?token=f6c4940dfc077f9f6470dd0065488082
+- 可用流量:98.54 GB                    https://sub.zhilian.best/getjiedian/846c636c45dd97c79a390bd347188655
+- 可用流量:99.02 GB                    https://sub.zhilian.best/getjiedian/92ea94bd39b80424a044fea1833df91e
+- 可用流量:99.02 GB                    https://sub.zhilian.best/getjiedian/c9201efaa9bf18c74a6a3fd333b1d7d9
+- 可用流量:99.17 GB                    https://sub.zhilian.best/getjiedian/d058d7ea4de9390b35ba712a6f822c3f
 机场订阅:
 - https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
+- https://92oosk.wcrcz.com/api/771a280efe23d2848f77eaccda61cab6
 - https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=deac465224921e593d9940b2c6ed2ccd
 - https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b
 - https://cccloud.zangcloud.xyz/ai/m3u8/xppt/sub?token=a885d9fbeefc0249fd9a84632f7c18d5
 - https://dk11.testdd.us.ci/api/dktv?sby=12a1dbeb75ce87f9a6448667d24cca5e
 - https://dk11.testdd.us.ci/api/dktv?sby=7ba71385d435ec3c96e7461b089ff88f
+- https://kk.shdetai.cn/sub?token=d7561462a0f9a392ab6ae472cec0a533
 - https://novc.f6net.net/api/v1/client/subscribe?token=7a227fd56a15f5bf688388408e4a6c16
 - https://novc.f6net.net/api/v1/client/subscribe?token=99cb584ebce444815075f222b72e1741
+- https://novc.f6net.net/api/v1/client/subscribe?token=a622299cd0f5f9fd8027f5c34d882465
 - https://novc.f6net.net/api/v1/client/subscribe?token=f6c4940dfc077f9f6470dd0065488082
 - https://sub.pusytroller.cf/?url=freenodes
+- https://sub.zhilian.best/getjiedian/846c636c45dd97c79a390bd347188655
+- https://sub.zhilian.best/getjiedian/92ea94bd39b80424a044fea1833df91e
+- https://sub.zhilian.best/getjiedian/a0c6d123178d402e01dcf93534dc3b13
+- https://sub.zhilian.best/getjiedian/c9201efaa9bf18c74a6a3fd333b1d7d9
+- https://sub.zhilian.best/getjiedian/d058d7ea4de9390b35ba712a6f822c3f
 - https://suba.f2vip.net/api/v1/client/subscribe?token=aca29512e06f31f0af911df5b5810825
 - https://suba.f2vip.net/api/v1/client/subscribe?token=c9ad44f4ceee014190178d1fcd3a2de2
 - https://suba.f2vip.net/api/v1/client/subscribe?token=cc833e586787464bcf090be25e2da69f
