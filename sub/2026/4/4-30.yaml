@@ -7,6 +7,7 @@ clash订阅:
 - https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+- https://sni.111000.dynv6.net/sub?clash
 - https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://v2rayse.com/fs/public/20260422/free-node-share-0800.yaml
 - https://v2rayse.com/fs/public/20260422/free-node-share-2000.yaml
@@ -24,10 +25,12 @@ clash订阅:
 - https://v2rayse.com/fs/public/20260428/free-node-share-2000.yaml
 - https://v2rayse.com/fs/public/20260429/free-node-share-0800.yaml
 - https://v2rayse.com/fs/public/20260429/free-node-share-2000.yaml
+- https://v2rayse.com/fs/public/20260430/free-node-share-0800.yaml
 - https://x.v50.lat/view.php?id=9f1d8202a1f3103d
 v2订阅:
 - https://iuiu.lovebabyforever.workers.dev/
 - https://pai.yt/base64
+- https://pai.yt/base64?preset=other
 - https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - https://sub.scpnb.top/base64
 - https://v2rayse.com/fs/public/20260422/free-node-share-0800.txt
@@ -46,29 +49,44 @@ v2订阅:
 - https://v2rayse.com/fs/public/20260428/free-node-share-2000.txt
 - https://v2rayse.com/fs/public/20260429/free-node-share-0800.txt
 - https://v2rayse.com/fs/public/20260429/free-node-share-2000.txt
+- https://v2rayse.com/fs/public/20260430/free-node-share-0800.txt
 开心玩耍:
-- 可用流量:112.86 GB                    https://api.nekocloud.top/api/v1/nekocloud/507d73516713896af908b4535f820323
-- 可用流量:262.79 GB                    https://sub.subxxxxxxxxxxxxxxxxxxxxxxx.xyz/link/1P9FbrSJkJUJd9U5?clash=1
-- 可用流量:35.15 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=e742256318b03821f8eabe1cea0c00bf
-- 可用流量:4661.06 GB                    https://hha.albertabobbi.ndjp.net/sub?token=0dae672be75b12550a98be8fa66458f2
-- 可用流量:4666.4 GB                    https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
-- 可用流量:78.27 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=cad3a900dbd1a071add6fe7815e69746
-- 可用流量:78.7 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=eb16cbd7f9556184ac6914b9a6c42a57
-- 可用流量:82.0 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=087bba036e4c68b3454c401df6c89436
-- 可用流量:82.84 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=dbcf09bcd88eaab4dabdd64d2a2401f2
-- 可用流量:84.87 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=561a1151e33239a1680fd2485d843634
-- 可用流量:90.71 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=70cfdf77b570a92927d2e93a275a3c18
-- 可用流量:94.31 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f284e25224958df10a25fe9d63d750b6
-- 可用流量:99.63 GB                    https://suba.f2vip.net/api/v1/client/subscribe?token=1d3cd827142940b28cd756c11a6a296d
+- 可用流量:17.15 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=833cf6eb8bcf2447e9acd53768289c0f
+- 可用流量:39.8 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=6b7c1aa325e0b3d2d3e382a452faaad4
+- 可用流量:42.11 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=327f1e607186b8565873de080825a891
+- 可用流量:44.46 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=6b0f3f7be0ece0f61ce3555e2ce010ba
+- 可用流量:45.55 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=3e7e55c49c0645a27628e15c2cfb7992
+- 可用流量:45.75 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=1c0e4b70988a671c26465eaaee5f0408
+- 可用流量:46.32 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=00e11266fc34d645362b23655a3655d7
+- 可用流量:46.77 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=3bcd4f89e41291e9d93b9e76cf254152
+- 可用流量:57.0 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=cad3a900dbd1a071add6fe7815e69746
+- 可用流量:79.14 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=ce6f2c95f133c4d3c6bed661ebd1b049
+- 可用流量:95.1 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=a1ae4f7f621385b90d6a00a711a30d01
+- 可用流量:95.34 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=8583d4909909485911518f83df7b322e
+- 可用流量:97.65 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f83c76fd1de3f536d9b75b320f03cbce
+- 可用流量:97.7 GB                    http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=46fdf57402bdef0156531acbf80a1420
 机场订阅:
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=00e11266fc34d645362b23655a3655d7
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=087bba036e4c68b3454c401df6c89436
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=1c0e4b70988a671c26465eaaee5f0408
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=327f1e607186b8565873de080825a891
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=3bcd4f89e41291e9d93b9e76cf254152
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=3e7e55c49c0645a27628e15c2cfb7992
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=46fdf57402bdef0156531acbf80a1420
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=561a1151e33239a1680fd2485d843634
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=6b0f3f7be0ece0f61ce3555e2ce010ba
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=6b7c1aa325e0b3d2d3e382a452faaad4
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=70cfdf77b570a92927d2e93a275a3c18
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=833cf6eb8bcf2447e9acd53768289c0f
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=8583d4909909485911518f83df7b322e
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=a1ae4f7f621385b90d6a00a711a30d01
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=cad3a900dbd1a071add6fe7815e69746
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=ce6f2c95f133c4d3c6bed661ebd1b049
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=dbcf09bcd88eaab4dabdd64d2a2401f2
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=e742256318b03821f8eabe1cea0c00bf
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=eb16cbd7f9556184ac6914b9a6c42a57
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f284e25224958df10a25fe9d63d750b6
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f83c76fd1de3f536d9b75b320f03cbce
 - https://api.nekocloud.top/api/v1/nekocloud/507d73516713896af908b4535f820323
 - https://hha.albertabobbi.ndjp.net/sub?token=0dae672be75b12550a98be8fa66458f2
 - https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c
