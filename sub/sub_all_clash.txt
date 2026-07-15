@@ -1,2 +1,13 @@
-https://vortex12.qjty.buzz/api/v2/user/token/7041431d14ad83ef71e49dc777b2c5c6
-https://w1.wanhdy.com/s/9b11e950654c15adac2b0fe1d6fa12e7
+https://msub.mjurl.com/api/v1/client/subscribe?token=ae40ddbf63d458d2cd8108b29767a6d1
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=1a52da8b94f2ffc6edaa47f215f54659
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=22b248556c0ccfef02a3c15b75a12824
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=3903474a85e08f730d6707d5c5cfe38f
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=67e45dc0d0ad3dfbf28cddeb2f1ca1fd
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=5c0ea21c1c6b4de86603e8fb4e2c54db
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=69cb0a530233b5063a97ede2ddfbff46
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=6de604c2cf14d0ab4bd84117e6bb93a1
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=861ac43682b58d9e142b0e8ffd98c6e6
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=8f86a28ed7558f2684fda45213eb84dc
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=91093e3b64a9f6acf99c143f84b27093
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=b1d337b0a0ae33a87678cae4aa2aaaba
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=e7ef5be2baf264e70db98365c7c0f632
