@@ -1,6 +1,7 @@
 clash订阅:
 - http://108.160.128.46:8443/vps-tokyo-x7k2.yaml
 - http://192.255.151.112:2080/personal-clash-e87d6a5cf302fcbe18978c4119d76cefbd85531ab7e0bd0781e9a9fec49e4828.yaml
+- http://47.74.25.186/163591d97667194343379053d62f6b523cfeb6a945e253a2.yaml
 - https://c2-5.66666.bond/c/K4ySQyZ
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
 - https://f.www890604.dpdns.org/c/LwzzDUZ
@@ -29,12 +30,14 @@ clash订阅:
 - https://nodebuf.com/files/public/cmugwtdb01hgaoh5wpn52ga6h/download
 - https://nodebuf.com/files/public/cmuhmiqfb1teeoh5wjo1lj8lo/download
 - https://nodebuf.com/files/public/cmuic8xi6257soh5wxot5pcwk/download
+- https://nodebuf.com/files/public/cmuj1y4jl2hdyoh5w20m63lx9/download
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 - https://tt.77777.bond/c/WMDjGtB
 - https://uk.77777.bond/c/KovC8Bj
 - https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 - https://uu.66666.bond/c/oURXbDs
+- https://vp3.yysyy.online/clash-7283b2a8cf150c00.yaml
 - https://yu.11144444.xyz/c/hXggqYK
 - https://yy.77777.bond/c/sSEpDhL
 v2订阅:
@@ -65,6 +68,7 @@ v2订阅:
 - https://nodebuf.com/files/public/cmug72tp7163doh5w3lttcikm/download
 - https://nodebuf.com/files/public/cmugwtd6f1hg5oh5w786egwlx/download
 - https://nodebuf.com/files/public/cmuic8xi5257qoh5wem21cdgl/download
+- https://nodebuf.com/files/public/cmuj1y6ag2he1oh5wju4z598k/download
 - https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - https://tt.77777.bond/x/WMDjGtB
 - https://uk.77777.bond/x/KovC8Bj
@@ -72,32 +76,35 @@ v2订阅:
 - https://yu.11144444.xyz/x/hXggqYK
 - https://yy.77777.bond/x/sSEpDhL
 开心玩耍:
+- 可用流量:100.0 GB                    http://sub.shkola112.site:8080
 - 可用流量:101373.0 GB                    https://sub.femboy.us.ci/?url=freenodes
+- 可用流量:137.52 GB                    http://36.133.43.24:8081/sub/api/subscribe?token=0ed824c7bab5b44b946128afbc9a7128
+- 可用流量:146.98 GB                    http://36.133.43.24:8081/sub/api/subscribe?token=298cb35e1db1b5ddaea6e91f30fe41d5
+- 可用流量:200.0 GB                    https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 - 可用流量:2048.0 GB                    https://clash.leozai.com
-- 可用流量:2986.13 GB                    http://192.255.128.123:8080
-- 可用流量:2986.13 GB                    http://192.255.128.123:8080/
-- 可用流量:703.91 GB                    http://clash.liudonghoe.com
-- 可用流量:703.91 GB                    http://clash.liudonghoe.com:8080
-- 可用流量:703.91 GB                    https://clash.liudonghoe.com:8443
+- 可用流量:703.26 GB                    http://clash.liudonghoe.com
+- 可用流量:703.26 GB                    http://clash.liudonghoe.com:8080
+- 可用流量:703.26 GB                    https://clash.liudonghoe.com:8443
 - 可用流量:931135439.6 GB                    https://xship.2fa.cat/v1/subscribe?starlink=aZ1814paAe56zSCvyL0_Ol23
-- 可用流量:931135485.46 GB                    https://xship.2fa.cat/v1/subscribe?starlink=kcrJFGG_1j8a0tWbVtUL2rIc
-- 可用流量:967.16 GB                    https://liangxin.xyz/api/v1/liangxin?OwO=0bd1ebf4b5f23545f5c35ca7e5c4a00d
 - 可用流量:997.0 GB                    http://inbox.emorika.com
 - 可用流量:997.0 GB                    http://night.kindalune.com
-- 可用流量:997.0 GB                    http://night.talemori.com
 - 可用流量:997.0 GB                    http://qa.emorika.com
 - 可用流量:9999999.0 GB                    https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 机场订阅:
 - http://192.255.128.123:8080
 - http://192.255.128.123:8080/
+- http://36.133.43.24:8081/sub/api/subscribe?token=0ed824c7bab5b44b946128afbc9a7128
+- http://36.133.43.24:8081/sub/api/subscribe?token=298cb35e1db1b5ddaea6e91f30fe41d5
 - http://clash.liudonghoe.com
 - http://clash.liudonghoe.com:8080
 - http://inbox.emorika.com
 - http://night.kindalune.com
 - http://night.talemori.com
 - http://qa.emorika.com
+- http://sub.shkola112.site:8080
 - https://clash.leozai.com
 - https://clash.liudonghoe.com:8443
+- https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
 - https://liangxin.xyz/api/v1/liangxin?OwO=0bd1ebf4b5f23545f5c35ca7e5c4a00d
 - https://sub.femboy.us.ci/?url=freenodes
 - https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
